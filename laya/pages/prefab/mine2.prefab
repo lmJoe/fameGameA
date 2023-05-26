@@ -1,0 +1,25 @@
+{
+    "x":0,
+    "type":"Sprite",
+    "selectedBox":2,
+    "searchKey":"Sprite",
+    "props":{"y":18,"x":6,"texture":"drawcard/g3.png","sceneWidth":92,"sceneHeight":184,"sceneColor":"#000000","presetID":1,"preset":"laya/pages/prefab/mine2.prefab","isPresetRoot":true},
+    "nodeParent":-1,
+    "maxID":3,
+    "label":"Sprite(mine2)",
+    "isDirectory":false,
+    "isAniNode":true,
+    "hasChild":false,
+    "compId":2,
+    "child":[
+        ],
+    "animations":[
+        {
+            "nodes":[
+                ],
+            "name":"ani1",
+            "id":1,
+            "frameRate":24,
+            "action":0
+        }]
+}

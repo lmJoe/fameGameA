@@ -1,0 +1,26 @@
+{
+    "x":0,
+    "type":"Sprite",
+    "selectedBox":2,
+    "selecteID":3,
+    "searchKey":"Sprite",
+    "props":{"y":0,"x":0,"width":113,"texture":"homePage/havest.png","sceneWidth":0,"sceneHeight":0,"sceneColor":"#000000","presetID":1,"preset":"laya/pages/prefab/havestDialog.prefab","isPresetRoot":true,"height":124},
+    "nodeParent":-1,
+    "maxID":4,
+    "label":"Sprite(havestDialog)",
+    "isDirectory":false,
+    "isAniNode":true,
+    "hasChild":false,
+    "compId":2,
+    "child":[
+        ],
+    "animations":[
+        {
+            "nodes":[
+                ],
+            "name":"ani1",
+            "id":1,
+            "frameRate":24,
+            "action":0
+        }]
+}

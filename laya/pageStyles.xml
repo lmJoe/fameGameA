@@ -1,0 +1,4 @@
+<page>
+   <item name="bmhframe.scene" props="" ifExport="文件模式" aName=""/>
+   <item name="scenes/homePage.scene" props="" ifExport="默认" aName=""/>
+</page>

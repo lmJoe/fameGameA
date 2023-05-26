@@ -1,0 +1,46 @@
+export default {
+  StartLoading:'StartLoading.scene',
+  Spinwin:'dialog/Spinwin.scene',
+  Tip:'dialog/Tip.scene',
+  Tip2:'dialog/Tip2.scene',
+  StopExchangeTip:'dialog/StopExchangeTip.scene',
+  spinToast:'dialog/spinToast.scene',
+  cardGame:'dialog/cardGame.scene',
+  goldrushDialog:'dialog/goldrushDialog.scene',
+  alerttTip:'dialog/alerttTip.scene',
+  missionSystems:'dialog/missionSystems.scene',
+  choseMoney:'dialog/choseMoney.scene',
+  questionAndAnswer:'dialog/questionAndAnswer.scene',
+  treeLevelDialog:'dialog/treeLevelDialog.scene',
+  landUpgrade:'dialog/landUpgrade.scene',
+  harvestPrompt:'dialog/harvestPrompt.scene',
+  exchangelist:'dialog/exchangelist.scene',
+  exchangeOrder:'dialog/exchangeOrder.scene',
+  shureOrder:'dialog/shureOrder.scene',
+  editAddress:'dialog/editAddress.scene',
+  shippAddress:'dialog/shippAddress.scene',
+  /**出售水果弹窗 */
+  fullSale:'dialog/fullSale.scene',
+  /**光照弹窗 */
+  lightDialog:'dialog/lightDialog.scene',
+  seedTip:'dialog/seedTip.scene',//种植弹窗
+  exchangeCenter:'dialog/exchangeCenter.scene',//种植弹窗
+  drawrecord:'dialog/drawrecord.scene',//种植弹窗
+  backpack:'dialog/backpack.scene',//背包
+  jewelRule:'dialog/jewelRule.scene',//钻石规则
+  plantRule:'dialog/plantRule.scene',//农场种植规则
+  upgrade:'dialog/upgrade.scene',//升级框
+  helpHarvest:'dialog/helpHarvest.scene',//助农
+  bmhframe:'bmhframe.scene',//主页
+  gamebox:'dialog/gamebox.scene',//抽卡游戏
+  addchange:'dialog/addchange.scene',//抽卡增加次数弹窗
+  collectmine:'dialog/collectmine.scene',//结算弹窗
+  gamelogout:'dialog/gamelogout.scene',//退出窗口
+  tillLandPage:'scenes/homePage.scene',//种田游戏
+  dailyWelfare:'dialog/dailyWelfare.scene',//每日福利
+  freeReceive:'dialog/freeReceive.scene',//免费领取
+  menu:'dialog/menu.scene',//种田游戏菜园
+  cropsMenu:'dialog/cropsMenu.scene',//菜园农作物列表
+  noGold:'dialog/noGold.scene',//金币不足界面
+  fishOper:'dialog/fishOper.scene',//浇水次数不足
+}

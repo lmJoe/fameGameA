@@ -1,0 +1,25 @@
+{
+    "x":0,
+    "type":"Sprite",
+    "selectedBox":2,
+    "searchKey":"Sprite",
+    "props":{"y":0,"x":0,"width":113,"texture":"homePage/sow.png","sceneWidth":0,"sceneHeight":0,"sceneColor":"#000000","presetID":1,"preset":"laya/pages/prefab/seedTips.prefab","isPresetRoot":true,"height":124},
+    "nodeParent":-1,
+    "maxID":3,
+    "label":"Sprite(seedTips)",
+    "isDirectory":false,
+    "isAniNode":true,
+    "hasChild":false,
+    "compId":2,
+    "child":[
+        ],
+    "animations":[
+        {
+            "nodes":[
+                ],
+            "name":"ani1",
+            "id":1,
+            "frameRate":24,
+            "action":0
+        }]
+}
